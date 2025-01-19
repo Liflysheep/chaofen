@@ -1,0 +1,32 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+*.log
+*.tmp
+*.bak
+data/
+*.txt
+*.pth
+*.csv
+*.mat
+*.xls
+**/*0.001/
+<<<<<<< Updated upstream
+**/checkpoint/
+=======
+./对比试验/UDALN_GRSL/checkpoints/
+>>>>>>> Stashed changes
+paper/
+*.docx
+*.ckpt
+*.yaml
+__pycache__/
+logs/
+copydata/
